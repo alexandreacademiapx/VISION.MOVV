@@ -649,9 +649,6 @@ export default function Portfolio() {
   }, [activeProject]);
 
   const text = copy[locale];
-  const heroProject =
-    projects.find((project) => project.id === "power-of-color-grading") ??
-    projects[0];
   const processProject =
     projects.find((project) => project.id === "power-of-color-grading") ??
     projects[0];
@@ -685,13 +682,22 @@ export default function Portfolio() {
       >
         <section className="hero" aria-labelledby="hero-title">
           <div className="hero-media" aria-hidden="true">
-            <PortfolioMedia
-              project={heroProject}
-              locale={locale}
-              eager
-              decorative
-              className="hero-asset"
-            />
+            <picture className="hero-picture">
+              <source
+                media="(prefers-reduced-motion: reduce)"
+                srcSet="/portfolio/projects/ia-generativa/image-003.jpg"
+              />
+              <img
+                className="project-asset hero-asset"
+                src="/portfolio/projects/ia-generativa/hero-montage.gif"
+                alt=""
+                width="768"
+                height="432"
+                loading="eager"
+                decoding="async"
+                fetchPriority="high"
+              />
+            </picture>
             <span />
           </div>
           <p className="hero-role">{text.role}</p>
