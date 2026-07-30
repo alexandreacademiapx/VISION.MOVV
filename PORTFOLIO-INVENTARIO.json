@@ -1,0 +1,1122 @@
+{
+  "projects": 18,
+  "visibleProjectMedia": 182,
+  "sourceFilesRepresented": 184,
+  "images": 175,
+  "videos": 9,
+  "files": [
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/close_supreme_patch_laranja_Original.jpg",
+      "output": "/portfolio/projects/ia-generativa/image-001.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/Design sem nome_Original 2.jpg",
+      "output": "/portfolio/projects/ia-generativa/image-002.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/Design sem nome_Original 3.jpg",
+      "output": "/portfolio/projects/ia-generativa/image-003.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/Design sem nome_Original 4.jpg",
+      "output": "/portfolio/projects/ia-generativa/image-004.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/Design sem nome_Original 5.jpg",
+      "output": "/portfolio/projects/ia-generativa/image-005.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/Design sem nome_Original.jpg",
+      "output": "/portfolio/projects/ia-generativa/image-006.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_5591_Original.PNG",
+      "output": "/portfolio/projects/ia-generativa/image-007.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_5726_Original.PNG",
+      "output": "/portfolio/projects/ia-generativa/image-008.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_5733_Original.PNG",
+      "output": "/portfolio/projects/ia-generativa/image-009.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_6429.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-010.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_6430.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-011.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_6482.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-012.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7256_Original.jpg",
+      "output": "/portfolio/projects/ia-generativa/image-013.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7261_Original.jpg",
+      "output": "/portfolio/projects/ia-generativa/image-014.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7300_Original.jpg",
+      "output": "/portfolio/projects/ia-generativa/image-015.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7306_Original.jpg",
+      "output": "/portfolio/projects/ia-generativa/image-016.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7318_Original.jpg",
+      "output": "/portfolio/projects/ia-generativa/image-017.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7321_Original.jpg",
+      "output": "/portfolio/projects/ia-generativa/image-018.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7322_Original.jpg",
+      "output": "/portfolio/projects/ia-generativa/image-019.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7369_Original.jpg",
+      "output": "/portfolio/projects/ia-generativa/image-020.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7376_Original.jpg",
+      "output": "/portfolio/projects/ia-generativa/image-021.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7377_Original.jpg",
+      "output": "/portfolio/projects/ia-generativa/image-022.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7378_Original.jpg",
+      "output": "/portfolio/projects/ia-generativa/image-023.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7380_Original.jpg",
+      "output": "/portfolio/projects/ia-generativa/image-024.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7517.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-025.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7518.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-026.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7521.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-027.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7522.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-028.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7523.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-029.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7524.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-030.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7526.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-031.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7528.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-032.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7529.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-033.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7530.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-034.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7531.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-035.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7534.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-036.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7537.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-037.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7538.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-038.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7539.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-039.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7615.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-040.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7616.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-041.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7617.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-042.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7618.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-043.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7619.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-044.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7620.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-045.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7621.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-046.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7622.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-047.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7623.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-048.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7626.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-049.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7627.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-050.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7628.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-051.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7629.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-052.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7630.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-053.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7631.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-054.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7632.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-055.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7634.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-056.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7635.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-057.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7636.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-058.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7637.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-059.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7638.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-060.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7639.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-061.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7640.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-062.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7642.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-063.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7643.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-064.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7644.PNG",
+      "output": "/portfolio/projects/ia-generativa/image-065.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7645.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-066.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7646.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-067.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7647.PNG",
+      "output": "/portfolio/projects/ia-generativa/image-068.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7648.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-069.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7649.PNG",
+      "output": "/portfolio/projects/ia-generativa/image-070.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7650.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-071.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7651.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-072.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7736.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-073.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7739.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-074.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7740.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-075.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7742.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-076.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7744.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-077.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/IMG_7749.JPG",
+      "output": "/portfolio/projects/ia-generativa/image-078.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/magnific_camera-arri-alexa-35-at-i_74ukZgLJAL.jpg",
+      "output": "/portfolio/projects/ia-generativa/image-079.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/nlogo_04_halo_envolvente_Original.PNG",
+      "output": "/portfolio/projects/ia-generativa/image-080.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/photo-output_Original 2.jpg",
+      "output": "/portfolio/projects/ia-generativa/image-081.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/photo-output_Original.jpg",
+      "output": "/portfolio/projects/ia-generativa/image-082.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/photo-output.HEIC",
+      "output": "/portfolio/projects/ia-generativa/image-083.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "image",
+      "source": "IA/quatro_flat_Original.PNG",
+      "output": "/portfolio/projects/ia-generativa/image-084.jpg"
+    },
+    {
+      "projectId": "ia-generativa",
+      "type": "video",
+      "source": "IA/video-output-C1254DAA-1284-474F-9C32-AC094D187DF3-1.mov",
+      "output": "/portfolio/projects/ia-generativa/video-01.mp4",
+      "poster": "/portfolio/projects/ia-generativa/video-01-poster.jpg"
+    },
+    {
+      "projectId": "sensation-label",
+      "type": "image",
+      "source": "FOTOGRAFIAS/SENSATION LABEL/SENSATION-01.jpeg",
+      "output": "/portfolio/projects/sensation-label/image-001.jpg"
+    },
+    {
+      "projectId": "sensation-label",
+      "type": "image",
+      "source": "FOTOGRAFIAS/SENSATION LABEL/SENSATION-02.jpeg",
+      "output": "/portfolio/projects/sensation-label/image-002.jpg"
+    },
+    {
+      "projectId": "sensation-label",
+      "type": "image",
+      "source": "FOTOGRAFIAS/SENSATION LABEL/SENSATION-03.jpeg",
+      "output": "/portfolio/projects/sensation-label/image-003.jpg"
+    },
+    {
+      "projectId": "sensation-label",
+      "type": "image",
+      "source": "FOTOGRAFIAS/SENSATION LABEL/SENSATION-04.jpeg",
+      "output": "/portfolio/projects/sensation-label/image-004.jpg"
+    },
+    {
+      "projectId": "sensation-label",
+      "type": "image",
+      "source": "FOTOGRAFIAS/SENSATION LABEL/SENSATION-05.jpeg",
+      "output": "/portfolio/projects/sensation-label/image-005.jpg"
+    },
+    {
+      "projectId": "sensation-label",
+      "type": "image",
+      "source": "FOTOGRAFIAS/SENSATION LABEL/SENSATION-06.jpeg",
+      "output": "/portfolio/projects/sensation-label/image-006.jpg"
+    },
+    {
+      "projectId": "sensation-label",
+      "type": "image",
+      "source": "FOTOGRAFIAS/SENSATION LABEL/SENSATION-07.jpeg",
+      "output": "/portfolio/projects/sensation-label/image-007.jpg"
+    },
+    {
+      "projectId": "sensation-label",
+      "type": "image",
+      "source": "FOTOGRAFIAS/SENSATION LABEL/SENSATION-08.jpeg",
+      "output": "/portfolio/projects/sensation-label/image-008.jpg"
+    },
+    {
+      "projectId": "sensation-label",
+      "type": "image",
+      "source": "FOTOGRAFIAS/SENSATION LABEL/SENSATION-09.jpeg",
+      "output": "/portfolio/projects/sensation-label/image-009.jpg"
+    },
+    {
+      "projectId": "sensation-label",
+      "type": "image",
+      "source": "FOTOGRAFIAS/SENSATION LABEL/SENSATION-10.jpeg",
+      "output": "/portfolio/projects/sensation-label/image-010.jpg"
+    },
+    {
+      "projectId": "sensation-label",
+      "type": "image",
+      "source": "FOTOGRAFIAS/SENSATION LABEL/SENSATION-11.jpeg",
+      "output": "/portfolio/projects/sensation-label/image-011.jpg"
+    },
+    {
+      "projectId": "sensation-label",
+      "type": "image",
+      "source": "FOTOGRAFIAS/SENSATION LABEL/SENSATION-12.jpeg",
+      "output": "/portfolio/projects/sensation-label/image-012.jpg"
+    },
+    {
+      "projectId": "sensation-label",
+      "type": "image",
+      "source": "FOTOGRAFIAS/SENSATION LABEL/SENSATION-13.jpeg",
+      "output": "/portfolio/projects/sensation-label/image-013.jpg"
+    },
+    {
+      "projectId": "sensation-label",
+      "type": "image",
+      "source": "FOTOGRAFIAS/SENSATION LABEL/SENSATION-14.jpeg",
+      "output": "/portfolio/projects/sensation-label/image-014.jpg"
+    },
+    {
+      "projectId": "sensation-label",
+      "type": "image",
+      "source": "FOTOGRAFIAS/SENSATION LABEL/SENSATION-15.jpeg",
+      "output": "/portfolio/projects/sensation-label/image-015.jpg"
+    },
+    {
+      "projectId": "sensation-label",
+      "type": "image",
+      "source": "FOTOGRAFIAS/SENSATION LABEL/SENSATION-16.jpeg",
+      "output": "/portfolio/projects/sensation-label/image-016.jpg"
+    },
+    {
+      "projectId": "sensation-label",
+      "type": "image",
+      "source": "FOTOGRAFIAS/SENSATION LABEL/SENSATION-17.jpeg",
+      "output": "/portfolio/projects/sensation-label/image-017.jpg"
+    },
+    {
+      "projectId": "to-no-after",
+      "type": "image",
+      "source": "FOTOGRAFIAS/TO NO AFTER/TO NO AFTER-01.jpeg",
+      "output": "/portfolio/projects/to-no-after/image-001.jpg"
+    },
+    {
+      "projectId": "to-no-after",
+      "type": "image",
+      "source": "FOTOGRAFIAS/TO NO AFTER/TO NO AFTER-02.jpeg",
+      "output": "/portfolio/projects/to-no-after/image-002.jpg"
+    },
+    {
+      "projectId": "to-no-after",
+      "type": "image",
+      "source": "FOTOGRAFIAS/TO NO AFTER/TO NO AFTER-03.jpeg",
+      "output": "/portfolio/projects/to-no-after/image-003.jpg"
+    },
+    {
+      "projectId": "to-no-after",
+      "type": "image",
+      "source": "FOTOGRAFIAS/TO NO AFTER/TO NO AFTER-04.jpeg",
+      "output": "/portfolio/projects/to-no-after/image-004.jpg"
+    },
+    {
+      "projectId": "to-no-after",
+      "type": "image",
+      "source": "FOTOGRAFIAS/TO NO AFTER/TO NO AFTER-05.jpeg",
+      "output": "/portfolio/projects/to-no-after/image-005.jpg"
+    },
+    {
+      "projectId": "to-no-after",
+      "type": "image",
+      "source": "FOTOGRAFIAS/TO NO AFTER/TO NO AFTER-06.jpeg",
+      "output": "/portfolio/projects/to-no-after/image-006.jpg"
+    },
+    {
+      "projectId": "to-no-after",
+      "type": "image",
+      "source": "FOTOGRAFIAS/TO NO AFTER/TO NO AFTER-07.jpeg",
+      "output": "/portfolio/projects/to-no-after/image-007.jpg"
+    },
+    {
+      "projectId": "to-no-after",
+      "type": "image",
+      "source": "FOTOGRAFIAS/TO NO AFTER/TO NO AFTER-08.jpeg",
+      "output": "/portfolio/projects/to-no-after/image-008.jpg"
+    },
+    {
+      "projectId": "to-no-after",
+      "type": "image",
+      "source": "FOTOGRAFIAS/TO NO AFTER/TO NO AFTER-09.jpeg",
+      "output": "/portfolio/projects/to-no-after/image-009.jpg"
+    },
+    {
+      "projectId": "to-no-after",
+      "type": "image",
+      "source": "FOTOGRAFIAS/TO NO AFTER/TO NO AFTER-10.jpeg",
+      "output": "/portfolio/projects/to-no-after/image-010.jpg"
+    },
+    {
+      "projectId": "to-no-after",
+      "type": "image",
+      "source": "FOTOGRAFIAS/TO NO AFTER/TO NO AFTER-11.jpeg",
+      "output": "/portfolio/projects/to-no-after/image-011.jpg"
+    },
+    {
+      "projectId": "to-no-after",
+      "type": "image",
+      "source": "FOTOGRAFIAS/TO NO AFTER/TO NO AFTER-12.jpeg",
+      "output": "/portfolio/projects/to-no-after/image-012.jpg"
+    },
+    {
+      "projectId": "to-no-after",
+      "type": "image",
+      "source": "FOTOGRAFIAS/TO NO AFTER/TO NO AFTER-13.jpeg",
+      "output": "/portfolio/projects/to-no-after/image-013.jpg"
+    },
+    {
+      "projectId": "to-no-after",
+      "type": "image",
+      "source": "FOTOGRAFIAS/TO NO AFTER/TO NO AFTER-14.jpeg",
+      "output": "/portfolio/projects/to-no-after/image-014.jpg"
+    },
+    {
+      "projectId": "to-no-after",
+      "type": "image",
+      "source": "FOTOGRAFIAS/TO NO AFTER/TO NO AFTER-15.jpeg",
+      "output": "/portfolio/projects/to-no-after/image-015.jpg"
+    },
+    {
+      "projectId": "to-no-after",
+      "type": "image",
+      "source": "FOTOGRAFIAS/TO NO AFTER/TO NO AFTER-16.jpeg",
+      "output": "/portfolio/projects/to-no-after/image-016.jpg"
+    },
+    {
+      "projectId": "to-no-after",
+      "type": "image",
+      "source": "FOTOGRAFIAS/TO NO AFTER/TO NO AFTER-17.jpeg",
+      "output": "/portfolio/projects/to-no-after/image-017.jpg"
+    },
+    {
+      "projectId": "to-no-after",
+      "type": "image",
+      "source": "FOTOGRAFIAS/TO NO AFTER/TO NO AFTER-18.jpeg",
+      "output": "/portfolio/projects/to-no-after/image-018.jpg"
+    },
+    {
+      "projectId": "to-no-after",
+      "type": "image",
+      "source": "FOTOGRAFIAS/TO NO AFTER/TO NO AFTER-19.jpeg",
+      "output": "/portfolio/projects/to-no-after/image-019.jpg"
+    },
+    {
+      "projectId": "to-no-after",
+      "type": "image",
+      "source": "FOTOGRAFIAS/TO NO AFTER/TO NO AFTER-20.jpeg",
+      "output": "/portfolio/projects/to-no-after/image-020.jpg"
+    },
+    {
+      "projectId": "to-no-after",
+      "type": "image",
+      "source": "FOTOGRAFIAS/TO NO AFTER/TO NO AFTER-21.jpeg",
+      "output": "/portfolio/projects/to-no-after/image-021.jpg"
+    },
+    {
+      "projectId": "to-no-after",
+      "type": "image",
+      "source": "FOTOGRAFIAS/TO NO AFTER/TO NO AFTER-22.jpeg",
+      "output": "/portfolio/projects/to-no-after/image-022.jpg"
+    },
+    {
+      "projectId": "to-no-after",
+      "type": "image",
+      "source": "FOTOGRAFIAS/TO NO AFTER/TO NO AFTER-23.jpeg",
+      "output": "/portfolio/projects/to-no-after/image-023.jpg"
+    },
+    {
+      "projectId": "to-no-after",
+      "type": "image",
+      "source": "FOTOGRAFIAS/TO NO AFTER/TO NO AFTER-24.jpeg",
+      "output": "/portfolio/projects/to-no-after/image-024.jpg"
+    },
+    {
+      "projectId": "dj-denali",
+      "type": "video",
+      "source": "VIDEOS/GIF 2.mp4",
+      "output": "/portfolio/projects/dj-denali/video-01.mp4",
+      "poster": "/portfolio/projects/dj-denali/video-01-poster.jpg"
+    },
+    {
+      "projectId": "nitro-skate-shop",
+      "type": "image",
+      "source": "FOTOGRAFIAS/NITRO SKATE SHOP/NITRO (1).jpeg",
+      "output": "/portfolio/projects/nitro-skate-shop/image-001.jpg"
+    },
+    {
+      "projectId": "nitro-skate-shop",
+      "type": "image",
+      "source": "FOTOGRAFIAS/NITRO SKATE SHOP/NITRO (2).jpeg",
+      "output": "/portfolio/projects/nitro-skate-shop/image-002.jpg"
+    },
+    {
+      "projectId": "nitro-skate-shop",
+      "type": "image",
+      "source": "FOTOGRAFIAS/NITRO SKATE SHOP/NITRO (3).jpeg",
+      "output": "/portfolio/projects/nitro-skate-shop/image-003.jpg"
+    },
+    {
+      "projectId": "nitro-skate-shop",
+      "type": "image",
+      "source": "FOTOGRAFIAS/NITRO SKATE SHOP/NITRO (4).jpeg",
+      "output": "/portfolio/projects/nitro-skate-shop/image-004.jpg"
+    },
+    {
+      "projectId": "nitro-skate-shop",
+      "type": "image",
+      "source": "FOTOGRAFIAS/NITRO SKATE SHOP/NITRO (5).jpeg",
+      "output": "/portfolio/projects/nitro-skate-shop/image-005.jpg"
+    },
+    {
+      "projectId": "nitro-skate-shop",
+      "type": "image",
+      "source": "FOTOGRAFIAS/NITRO SKATE SHOP/NITRO (6).jpeg",
+      "output": "/portfolio/projects/nitro-skate-shop/image-006.jpg"
+    },
+    {
+      "projectId": "nitro-skate-shop",
+      "type": "image",
+      "source": "FOTOGRAFIAS/NITRO SKATE SHOP/NITRO (7).jpeg",
+      "output": "/portfolio/projects/nitro-skate-shop/image-007.jpg"
+    },
+    {
+      "projectId": "nitro-skate-shop",
+      "type": "image",
+      "source": "FOTOGRAFIAS/NITRO SKATE SHOP/NITRO (8).jpeg",
+      "output": "/portfolio/projects/nitro-skate-shop/image-008.jpg"
+    },
+    {
+      "projectId": "barber",
+      "type": "image",
+      "source": "FOTOGRAFIAS/BARBER/BARBER-1(4).jpeg",
+      "output": "/portfolio/projects/barber/image-001.jpg"
+    },
+    {
+      "projectId": "barber",
+      "type": "image",
+      "source": "FOTOGRAFIAS/BARBER/BARBER-2(1).jpeg",
+      "output": "/portfolio/projects/barber/image-002.jpg"
+    },
+    {
+      "projectId": "barber",
+      "type": "image",
+      "source": "FOTOGRAFIAS/BARBER/BARBER-3(1).jpeg",
+      "output": "/portfolio/projects/barber/image-003.jpg"
+    },
+    {
+      "projectId": "barber",
+      "type": "image",
+      "source": "FOTOGRAFIAS/BARBER/BARBER-4.jpeg",
+      "output": "/portfolio/projects/barber/image-004.jpg"
+    },
+    {
+      "projectId": "barber",
+      "type": "image",
+      "source": "FOTOGRAFIAS/BARBER/BARBER-5(1).jpeg",
+      "output": "/portfolio/projects/barber/image-005.jpg"
+    },
+    {
+      "projectId": "barber",
+      "type": "image",
+      "source": "FOTOGRAFIAS/BARBER/BARBER-6(1).jpeg",
+      "output": "/portfolio/projects/barber/image-006.jpg"
+    },
+    {
+      "projectId": "barber",
+      "type": "image",
+      "source": "FOTOGRAFIAS/BARBER/BARBER-7.jpeg",
+      "output": "/portfolio/projects/barber/image-007.jpg"
+    },
+    {
+      "projectId": "barber",
+      "type": "image",
+      "source": "FOTOGRAFIAS/BARBER/BARBER-8.jpeg",
+      "output": "/portfolio/projects/barber/image-008.jpg"
+    },
+    {
+      "projectId": "barber",
+      "type": "image",
+      "source": "FOTOGRAFIAS/BARBER/BARBER-9(1).jpeg",
+      "output": "/portfolio/projects/barber/image-009.jpg"
+    },
+    {
+      "projectId": "dragao-de-tinta",
+      "type": "image",
+      "source": "FOTOGRAFIAS/DRAGAO DE TINTA/NAUHUANA  (1).jpg",
+      "output": "/portfolio/projects/dragao-de-tinta/image-001.jpg"
+    },
+    {
+      "projectId": "dragao-de-tinta",
+      "type": "image",
+      "source": "FOTOGRAFIAS/DRAGAO DE TINTA/NAUHUANA  (2).jpg",
+      "output": "/portfolio/projects/dragao-de-tinta/image-002.jpg"
+    },
+    {
+      "projectId": "dragao-de-tinta",
+      "type": "image",
+      "source": "FOTOGRAFIAS/DRAGAO DE TINTA/NAUHUANA  (3).jpg",
+      "output": "/portfolio/projects/dragao-de-tinta/image-003.jpg"
+    },
+    {
+      "projectId": "dragao-de-tinta",
+      "type": "image",
+      "source": "FOTOGRAFIAS/DRAGAO DE TINTA/NAUHUANA  (4).jpg",
+      "output": "/portfolio/projects/dragao-de-tinta/image-004.jpg"
+    },
+    {
+      "projectId": "chilli-beans",
+      "type": "image",
+      "source": "FOTOGRAFIAS/CHILLI BEANS/CHILLI BEANS (1).jpg",
+      "output": "/portfolio/projects/chilli-beans/image-001.jpg"
+    },
+    {
+      "projectId": "chilli-beans",
+      "type": "image",
+      "source": "FOTOGRAFIAS/CHILLI BEANS/CHILLI BEANS (2).jpg",
+      "output": "/portfolio/projects/chilli-beans/image-002.jpg"
+    },
+    {
+      "projectId": "chilli-beans",
+      "type": "image",
+      "source": "FOTOGRAFIAS/CHILLI BEANS/CHILLI BEANS (3).jpg",
+      "output": "/portfolio/projects/chilli-beans/image-003.jpg"
+    },
+    {
+      "projectId": "abel",
+      "type": "image",
+      "source": "FOTOGRAFIAS/ABEL/40AEC2AF-98EE-46EE-84AB-10C85BBA8F1F.jpg",
+      "output": "/portfolio/projects/abel/image-001.jpg"
+    },
+    {
+      "projectId": "sibote-music",
+      "type": "image",
+      "source": "FOTOGRAFIAS/SIBOTE MUSIC/ZSIBOTE.jpeg",
+      "output": "/portfolio/projects/sibote-music/image-001.jpg"
+    },
+    {
+      "projectId": "color-studies",
+      "type": "image",
+      "source": "COLOR/1C604035-8CAE-4FEC-9790-45810461F8B2.jpg",
+      "output": "/portfolio/projects/color-studies/image-001.jpg"
+    },
+    {
+      "projectId": "color-studies",
+      "type": "image",
+      "source": "COLOR/2A539C8E-033B-466B-AA27-4AF74DFB3BDF.jpg",
+      "output": "/portfolio/projects/color-studies/image-002.jpg"
+    },
+    {
+      "projectId": "color-studies",
+      "type": "image",
+      "source": "COLOR/3FE87ED1-E6F2-4835-B914-52859C64C5E7.jpg",
+      "output": "/portfolio/projects/color-studies/image-003.jpg"
+    },
+    {
+      "projectId": "color-studies",
+      "type": "image",
+      "source": "COLOR/5B214EB4-3D92-443E-8AF9-0D462FA8855F.jpg",
+      "output": "/portfolio/projects/color-studies/image-004.jpg"
+    },
+    {
+      "projectId": "color-studies",
+      "type": "image",
+      "source": "COLOR/91C999F8-F10F-4C9B-86B3-6960E66815DA.jpg",
+      "output": "/portfolio/projects/color-studies/image-005.jpg"
+    },
+    {
+      "projectId": "color-studies",
+      "type": "image",
+      "source": "COLOR/1118C658-8C2D-4C66-9A79-2FF737EB3491.jpg",
+      "output": "/portfolio/projects/color-studies/image-006.jpg"
+    },
+    {
+      "projectId": "color-studies",
+      "type": "image",
+      "source": "COLOR/A8C86EF2-D7D4-491B-92C3-E0F0746E04B7.jpg",
+      "output": "/portfolio/projects/color-studies/image-007.jpg"
+    },
+    {
+      "projectId": "color-studies",
+      "type": "image",
+      "source": "COLOR/C7747398-764B-443B-9E5F-0C82DC19753D.jpg",
+      "output": "/portfolio/projects/color-studies/image-008.jpg"
+    },
+    {
+      "projectId": "color-studies",
+      "type": "image",
+      "source": "COLOR/D11F9704-1459-49D1-8CEB-487EDA01FCED.jpg",
+      "output": "/portfolio/projects/color-studies/image-009.jpg"
+    },
+    {
+      "projectId": "color-studies",
+      "type": "image",
+      "source": "COLOR/D6700951-BC1C-4C5B-B44E-A955FA8475FA.jpg",
+      "output": "/portfolio/projects/color-studies/image-010.jpg"
+    },
+    {
+      "projectId": "color-studies",
+      "type": "image",
+      "source": "COLOR/F2E0BD09-02BF-41A4-9A45-4B89C5C0A762.jpg",
+      "output": "/portfolio/projects/color-studies/image-011.jpg"
+    },
+    {
+      "projectId": "color-studies",
+      "type": "image",
+      "source": "COLOR/F050965D-8115-45D0-8238-60E10615C468.jpg",
+      "output": "/portfolio/projects/color-studies/image-012.jpg"
+    },
+    {
+      "projectId": "color-studies",
+      "type": "image",
+      "source": "COLOR/IMG_5412.WEBP",
+      "output": "/portfolio/projects/color-studies/image-013.jpg"
+    },
+    {
+      "projectId": "color-studies",
+      "type": "image",
+      "source": "COLOR/Still 2026-05-20 201328_1.1.2.png",
+      "output": "/portfolio/projects/color-studies/image-014.jpg"
+    },
+    {
+      "projectId": "color-studies",
+      "type": "image",
+      "source": "COLOR/Still 2026-05-20 201328_1.2.1.png",
+      "output": "/portfolio/projects/color-studies/image-015.jpg"
+    },
+    {
+      "projectId": "color-studies",
+      "type": "image",
+      "source": "COLOR/Still 2026-05-20 201328_1.3.3.png",
+      "output": "/portfolio/projects/color-studies/image-016.jpg"
+    },
+    {
+      "projectId": "color-studies",
+      "type": "image",
+      "source": "COLOR/Still 2026-05-25 200851_1.4.1.png",
+      "output": "/portfolio/projects/color-studies/image-017.jpg"
+    },
+    {
+      "projectId": "color-studies",
+      "type": "image",
+      "source": "COLOR/Still 2026-05-25 200926_1.5.1.png",
+      "output": "/portfolio/projects/color-studies/image-018.jpg"
+    },
+    {
+      "projectId": "color-studies",
+      "type": "image",
+      "source": "COLOR/Still 2026-05-25 201001_1.6.1.png",
+      "output": "/portfolio/projects/color-studies/image-019.jpg"
+    },
+    {
+      "projectId": "color-studies",
+      "type": "image",
+      "source": "COLOR/Still 2026-05-25 201029_1.7.1.png",
+      "output": "/portfolio/projects/color-studies/image-020.jpg"
+    },
+    {
+      "projectId": "color-studies",
+      "type": "image",
+      "source": "COLOR/Still 2026-05-25 201139_1.8.1.png",
+      "output": "/portfolio/projects/color-studies/image-021.jpg"
+    },
+    {
+      "projectId": "color-studies",
+      "type": "image",
+      "source": "COLOR/Still 2026-05-25 201211_1.9.2.png",
+      "output": "/portfolio/projects/color-studies/image-022.jpg"
+    },
+    {
+      "projectId": "reel-color",
+      "type": "video",
+      "source": "VIDEOS/video-output-B2502261-4CCA-46F6-8067-2557E6E384A2-1.mov",
+      "output": "/portfolio/projects/reel-color/video-01.mp4",
+      "poster": "/portfolio/projects/reel-color/video-01-poster.jpg"
+    },
+    {
+      "projectId": "lamborghini",
+      "type": "video",
+      "source": "VIDEOS/7342cbcf7bd04444833647c79e8d4550.mov",
+      "output": "/portfolio/projects/lamborghini/video-01.mp4",
+      "poster": "/portfolio/projects/lamborghini/video-01-poster.jpg"
+    },
+    {
+      "projectId": "food-visual",
+      "type": "video",
+      "source": "VIDEOS/copy_07890860-3131-442B-A1FB-79572ADABBE7.mov",
+      "output": "/portfolio/projects/food-visual/video-01.mp4",
+      "poster": "/portfolio/projects/food-visual/video-01-poster.jpg"
+    },
+    {
+      "projectId": "aurion",
+      "type": "video",
+      "source": "VIDEOS/f3ddb77c-c99f-45be-914d-313afcbac244.mp4",
+      "output": "/portfolio/projects/aurion/video-01.mp4",
+      "poster": "/portfolio/projects/aurion/video-01-poster.jpg"
+    },
+    {
+      "projectId": "power-of-color-grading",
+      "type": "video",
+      "source": "VIDEOS/Timeline 1.mov",
+      "output": "/portfolio/projects/power-of-color-grading/video-01.mp4",
+      "poster": "/portfolio/projects/power-of-color-grading/video-01-poster.jpg"
+    },
+    {
+      "projectId": "vision-movv-ident",
+      "type": "video",
+      "source": "VIDEOS/IMG_6467.GIF",
+      "output": "/portfolio/projects/vision-movv-ident/video-01.mp4",
+      "poster": "/portfolio/projects/vision-movv-ident/video-01-poster.jpg"
+    },
+    {
+      "projectId": "ciclo-zero",
+      "type": "video",
+      "source": "VIDEOS/video-output-5E1A7D3A-DF97-4C1D-A495-7844A8F7905A-1.mov",
+      "output": "/portfolio/projects/ciclo-zero/video-01.mp4",
+      "poster": "/portfolio/projects/ciclo-zero/video-01-poster.jpg"
+    },
+    {
+      "projectId": "studio",
+      "type": "image",
+      "source": "EU/IMG_5354.JPG",
+      "output": "/portfolio/studio-portrait.jpg"
+    },
+    {
+      "projectId": "brand",
+      "type": "image",
+      "source": "LOGO (N SEI SE USAMOS)/878F9C72-12AA-424F-ACD1-4DEDF1FC0A89.png",
+      "output": "/portfolio/portfolio-logo.png"
+    }
+  ]
+}
