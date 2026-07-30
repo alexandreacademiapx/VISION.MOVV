@@ -646,6 +646,9 @@ export default function Portfolio() {
   }, [activeProject]);
 
   const text = copy[locale];
+  const heroProject =
+    projects.find((project) => project.id === "power-of-color-grading") ??
+    projects[0];
   const processProject =
     projects.find((project) => project.id === "power-of-color-grading") ??
     projects[0];
@@ -680,7 +683,7 @@ export default function Portfolio() {
         <section className="hero" aria-labelledby="hero-title">
           <div className="hero-media" aria-hidden="true">
             <PortfolioMedia
-              project={projects[0]}
+              project={heroProject}
               locale={locale}
               eager
               decorative
