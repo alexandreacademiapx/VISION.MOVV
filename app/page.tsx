@@ -315,7 +315,6 @@ function ProjectView({
         <p className="eyebrow">{text.project} / {project.number}</p>
         <h2>{project.intro[locale]}</h2>
         <div>
-          <p>{project.body[locale]}</p>
           <ul>
             {project.services[locale].map((service) => (
               <li key={service}>{service}</li>

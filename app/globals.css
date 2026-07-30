@@ -810,8 +810,7 @@ html[data-theme="dark"] .process-section {
 }
 
 .process-copy > p:last-child,
-.studio-copy > p,
-.project-view-copy > div > p {
+.studio-copy > p {
   max-width: 520px;
   margin: 38px 0 0;
   font-size: clamp(15px, 1.35vw, 20px);
@@ -1125,12 +1124,8 @@ html[data-theme="dark"] .process-section {
   margin-top: 0;
 }
 
-.project-view-copy > div > p {
-  margin-top: 0;
-}
-
 .project-view-copy ul {
-  margin-top: 50px;
+  margin-top: 0;
 }
 
 .project-view-copy li {
