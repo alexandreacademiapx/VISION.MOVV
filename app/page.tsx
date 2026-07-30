@@ -513,9 +513,12 @@ export default function Portfolio() {
       frame = 0;
       const viewportHeight = window.innerHeight;
       const heroProgress = Math.min(Math.max(window.scrollY / viewportHeight, 0), 1.25);
+      const isCompactViewport = window.matchMedia("(max-width: 820px)").matches;
+      const heroSlideDistance = isCompactViewport ? 44 : 92;
+      const heroLiftDistance = isCompactViewport ? -64 : -90;
 
-      hero.style.setProperty("--hero-slide", `${heroProgress * 92}px`);
-      hero.style.setProperty("--hero-lift", `${heroProgress * -90}px`);
+      hero.style.setProperty("--hero-slide", `${heroProgress * heroSlideDistance}px`);
+      hero.style.setProperty("--hero-lift", `${heroProgress * heroLiftDistance}px`);
       hero.style.setProperty("--hero-opacity", `${Math.max(1 - heroProgress * 0.72, 0.18)}`);
       aura.style.setProperty(
         "--pointer-aura-opacity",
@@ -528,7 +531,7 @@ export default function Portfolio() {
         const rawCenterDelta =
           (rect.top + rect.height / 2 - viewportHeight / 2) / viewportHeight;
         const centerDelta = Math.max(-1, Math.min(1, rawCenterDelta));
-        const motionScale = window.matchMedia("(max-width: 820px)").matches ? 0.38 : 1;
+        const motionScale = isCompactViewport ? 0.68 : 1;
         const depths = [28, -22, 30, -24, 18, -14];
         const depth = (depths[index] ?? (index % 2 === 0 ? 24 : -20)) * motionScale;
         element.style.setProperty("--parallax-y", `${centerDelta * depth}px`);
