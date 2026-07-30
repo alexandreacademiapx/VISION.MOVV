@@ -681,7 +681,7 @@ export default function Portfolio() {
         aria-hidden={activeProject ? true : undefined}
       >
         <section className="hero" aria-labelledby="hero-title">
-          <div className="hero-media" aria-hidden="true">
+          <div className="hero-media hero-media-gif" aria-hidden="true">
             <picture className="hero-picture">
               <source
                 media="(prefers-reduced-motion: reduce)"

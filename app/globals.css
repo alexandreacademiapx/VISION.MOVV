@@ -387,6 +387,17 @@ p {
   height: 100%;
 }
 
+.hero-media-gif::before,
+.hero-media-gif::after,
+.hero-media-gif > span {
+  display: none;
+}
+
+.hero-media.hero-media-gif .hero-asset {
+  opacity: 1;
+  filter: none;
+}
+
 .hero-media .hero-asset {
   display: block;
   width: 100%;
@@ -413,6 +424,7 @@ p {
   font-size: 10px;
   font-weight: 540;
   letter-spacing: 0.02em;
+  text-shadow: 0 1px 12px rgba(0, 0, 0, 0.46);
 }
 
 .hero-role {
@@ -439,6 +451,7 @@ p {
   transform: translate(-50%, calc(-33% + var(--hero-lift)));
   rotate: var(--cursor-rotate);
   white-space: nowrap;
+  text-shadow: 0 2px 28px rgba(0, 0, 0, 0.24);
   transition: opacity 120ms linear;
 }
 
